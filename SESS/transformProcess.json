@@ -1,0 +1,233 @@
+{
+  "actionList" : [ {
+    "transform" : {
+      "@class" : "org.datavec.api.transform.transform.categorical.CategoricalToOneHotTransform",
+      "columnName" : "protocol_type"
+    }
+  }, {
+    "transform" : {
+      "@class" : "org.datavec.api.transform.transform.categorical.CategoricalToOneHotTransform",
+      "columnName" : "service"
+    }
+  }, {
+    "transform" : {
+      "@class" : "org.datavec.api.transform.transform.categorical.CategoricalToOneHotTransform",
+      "columnName" : "flag"
+    }
+  }, {
+    "transform" : {
+      "@class" : "org.datavec.api.transform.transform.column.RemoveColumnsTransform",
+      "columnsToRemove" : [ "protocol_type[icmp]", "service[http]", "flag[SF]" ],
+      "leftOverColumns" : [ "duration", "protocol_type[tcp]", "protocol_type[udp]", "service[ftp_data]", "service[other]", "service[private]", "service[remote_job]", "service[name]", "service[netbios_ns]", "service[eco_i]", "service[mtp]", "service[telnet]", "service[finger]", "service[domain_u]", "service[supdup]", "service[uucp_path]", "service[Z39_50]", "service[smtp]", "service[csnet_ns]", "service[uucp]", "service[netbios_dgm]", "service[urp_i]", "service[auth]", "service[domain]", "service[ftp]", "service[bgp]", "service[ldap]", "service[ecr_i]", "service[gopher]", "service[vmnet]", "service[systat]", "service[http_443]", "service[efs]", "service[whois]", "service[imap4]", "service[iso_tsap]", "service[echo]", "service[klogin]", "service[link]", "service[sunrpc]", "service[login]", "service[kshell]", "service[sql_net]", "service[time]", "service[hostnames]", "service[exec]", "service[ntp_u]", "service[discard]", "service[nntp]", "service[courier]", "service[ctf]", "service[ssh]", "service[daytime]", "service[shell]", "service[netstat]", "service[pop_3]", "service[nnsp]", "service[IRC]", "service[pop_2]", "service[printer]", "service[tim_i]", "service[pm_dump]", "service[red_i]", "service[netbios_ssn]", "service[rje]", "service[X11]", "service[urh_i]", "service[http_8001]", "service[tftp_u]", "flag[S0]", "flag[REJ]", "flag[RSTR]", "flag[SH]", "flag[RSTO]", "flag[S1]", "flag[RSTOS0]", "flag[S3]", "flag[S2]", "flag[OTH]", "src_bytes", "dst_bytes", "land", "wrong_fragment", "urgent", "hot", "num_failed_logins", "logged_in", "num_compromised", "root_shell", "su_attempted", "num_root", "num_file_creations", "num_shells", "num_access_files", "num_outbound_cmds", "is_host_login", "is_guest_login", "count", "srv_count", "serror_rate", "srv_serror_rate", "rerror_rate", "srv_rerror_rate", "same_srv_rate", "diff_srv_rate", "srv_diff_host_rate", "dst_host_count", "dst_host_srv_count", "dst_host_same_srv_rate", "dst_host_diff_srv_rate", "dst_host_same_src_port_rate", "dst_host_srv_diff_host_rate", "dst_host_serror_rate", "dst_host_srv_serror_rate", "dst_host_rerror_rate", "dst_host_srv_rerror_rate", "class" ]
+    }
+  }, {
+    "transform" : {
+      "@class" : "org.datavec.api.transform.transform.categorical.CategoricalToIntegerTransform",
+      "columnName" : "class"
+    }
+  } ],
+  "initialSchema" : {
+    "@class" : "org.datavec.api.transform.schema.Schema",
+    "columns" : [ {
+      "@class" : "org.datavec.api.transform.metadata.IntegerMetaData",
+      "name" : "duration"
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.CategoricalMetaData",
+      "name" : "protocol_type",
+      "stateNames" : [ "tcp", "udp", "icmp" ]
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.CategoricalMetaData",
+      "name" : "service",
+      "stateNames" : [ "ftp_data", "other", "private", "http", "remote_job", "name", "netbios_ns", "eco_i", "mtp", "telnet", "finger", "domain_u", "supdup", "uucp_path", "Z39_50", "smtp", "csnet_ns", "uucp", "netbios_dgm", "urp_i", "auth", "domain", "ftp", "bgp", "ldap", "ecr_i", "gopher", "vmnet", "systat", "http_443", "efs", "whois", "imap4", "iso_tsap", "echo", "klogin", "link", "sunrpc", "login", "kshell", "sql_net", "time", "hostnames", "exec", "ntp_u", "discard", "nntp", "courier", "ctf", "ssh", "daytime", "shell", "netstat", "pop_3", "nnsp", "IRC", "pop_2", "printer", "tim_i", "pm_dump", "red_i", "netbios_ssn", "rje", "X11", "urh_i", "http_8001", "tftp_u" ]
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.CategoricalMetaData",
+      "name" : "flag",
+      "stateNames" : [ "SF", "S0", "REJ", "RSTR", "SH", "RSTO", "S1", "RSTOS0", "S3", "S2", "OTH" ]
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "src_bytes",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "dst_bytes",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.CategoricalMetaData",
+      "name" : "land",
+      "stateNames" : [ "0", "1" ]
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "wrong_fragment",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "urgent",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "hot",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "num_failed_logins",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.CategoricalMetaData",
+      "name" : "logged_in",
+      "stateNames" : [ "0", "1" ]
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "num_compromised",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "root_shell",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "su_attempted",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "num_root",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "num_file_creations",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "num_shells",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "num_access_files",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "num_outbound_cmds",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.CategoricalMetaData",
+      "name" : "is_host_login",
+      "stateNames" : [ "0", "1" ]
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.CategoricalMetaData",
+      "name" : "is_guest_login",
+      "stateNames" : [ "0", "1" ]
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "count",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "srv_count",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "serror_rate",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "srv_serror_rate",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "rerror_rate",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "srv_rerror_rate",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "same_srv_rate",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "diff_srv_rate",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "srv_diff_host_rate",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "dst_host_count",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "dst_host_srv_count",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "dst_host_same_srv_rate",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "dst_host_diff_srv_rate",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "dst_host_same_src_port_rate",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "dst_host_srv_diff_host_rate",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "dst_host_serror_rate",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "dst_host_srv_serror_rate",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "dst_host_rerror_rate",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.DoubleMetaData",
+      "name" : "dst_host_srv_rerror_rate",
+      "allowInfinite" : false,
+      "allowNaN" : false
+    }, {
+      "@class" : "org.datavec.api.transform.metadata.CategoricalMetaData",
+      "name" : "class",
+      "stateNames" : [ "normal", "anomaly" ]
+    } ]
+  }
+}

@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5ec88d4-ef09-40f2-8d0e-f88d6ac4c64e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/SESS-detectionAndAnalysis/target/" />
+    <ignored path="$PROJECT_DIR$/SESS-response/target/" />
+    <ignored path="$PROJECT_DIR$/SESS-communicationAgentsContract/target/" />
+    <ignored path="$PROJECT_DIR$/SESS-agentPlatform/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/BlockChainUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1632">
+              <caret line="102" column="9" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/SESSApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/agents/DAAgents/DACommunicationAgent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="53" column="63" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ledger/DACommunicationAgent/blockchain.bin">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="60" lean-forward="true" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/agents/DAAgents/DetectionAgent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/agents/DAAgents/TrainingAgent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/Contract.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="103" column="44" selection-start-line="103" selection-start-column="44" selection-end-line="103" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/BlockUpdateUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/Communication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="44" column="56" selection-start-line="44" selection-start-column="56" selection-end-line="44" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ftp_data</find>
+      <find>Adam</find>
+      <find>messaged</find>
+      <find>schema</find>
+      <find>Precision</find>
+      <find>New Training Set</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;,&quot;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SESS-detectionAndAnalysis/src/main/resources/KDDTrain+_20Percent.csv" />
+        <option value="$PROJECT_DIR$/SESS-detectionAndAnalysis/src/main/resources/dataSet4.csv" />
+        <option value="$PROJECT_DIR$/SESS-detectionAndAnalysis/src/main/java/cdu/edu/chao/utils/BarChartUtil.java" />
+        <option value="$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/BlockChainUtil.java" />
+        <option value="$PROJECT_DIR$/SESS-response/src/main/java/cdu/edu/chao/App.java" />
+        <option value="$PROJECT_DIR$/SESS-response/src/main/java/cdu/edu/chao/agents/ResponseAgent.java" />
+        <option value="$PROJECT_DIR$/SESS-response/src/main/java/App.java" />
+        <option value="$PROJECT_DIR$/SESS-detectionAndAnalysis/src/main/java/cdu/edu/chao/agents/DetectionAgent.java" />
+        <option value="$PROJECT_DIR$/SESS-detectionAndAnalysis/src/main/java/cdu/edu/chao/utils/DNNUtil.java" />
+        <option value="$PROJECT_DIR$/app.properties" />
+        <option value="$PROJECT_DIR$/SESS-detectionAndAnalysis/src/main/resources/app.properties" />
+        <option value="$PROJECT_DIR$/SESS-detectionAndAnalysis/src/main/java/cdu/edu/chao/utils/PropertiesUtil.java" />
+        <option value="$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/AgentAccount.java" />
+        <option value="$PROJECT_DIR$/SESS-detectionAndAnalysis/src/main/java/cdu/edu/chao/agents/DACommunicationAgent.java" />
+        <option value="$PROJECT_DIR$/SESS-response/src/main/java/cdu/edu/chao/agents/RCommunicationAgent.java" />
+        <option value="$PROJECT_DIR$/SESS-detectionAndAnalysis/src/main/java/cdu/edu/chao/utils/BlockUpdateUtil.java" />
+        <option value="$PROJECT_DIR$/SESS-response/src/main/java/Appa.java" />
+        <option value="$PROJECT_DIR$/SESS-response/src/main/java/abc/Appa.java" />
+        <option value="$PROJECT_DIR$/SESS-response/src/main/java/cdu/edu/chao/responseAgents/ResponseAgent.java" />
+        <option value="$PROJECT_DIR$/SESS-response/pom.xml" />
+        <option value="$PROJECT_DIR$/SESS-detectionAndAnalysis/src/main/java/cdu/edu/chao/App.java" />
+        <option value="$PROJECT_DIR$/SESS-detectionAndAnalysis/src/main/java/cdu/edu/chao/agents/TrainingAgent.java" />
+        <option value="$PROJECT_DIR$/SESS-detectionAndAnalysis/src/main/java/cdu/edu/chao/agents/DAAgents/TrainingAgent.java" />
+        <option value="$PROJECT_DIR$/SESS-detectionAndAnalysis/pom.xml" />
+        <option value="$PROJECT_DIR$/SESS-communicationAgentsContract/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/SESS-agentPlatform/pom.xml" />
+        <option value="$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/domain/DetectionReport.java" />
+        <option value="$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/domain/TrainingReport.java" />
+        <option value="$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/dto/ReportDto.java" />
+        <option value="$PROJECT_DIR$/RDetectionReport.json" />
+        <option value="$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/App.java" />
+        <option value="$PROJECT_DIR$/SESS-communicationAgentsContract/target/classes/block.bin" />
+        <option value="$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/BlockUpdateUtil.java" />
+        <option value="$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/Contract.java" />
+        <option value="$PROJECT_DIR$/blockchain.bin" />
+        <option value="$PROJECT_DIR$/RTrainingReport.json" />
+        <option value="$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/Block.java" />
+        <option value="$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/utils/LineChartUtil.java" />
+        <option value="$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/utils/DNNUtil.java" />
+        <option value="$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/utils/BarChartUtil.java" />
+        <option value="$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/SESSApp.java" />
+        <option value="$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/agents/DAAgents/DACommunicationAgent.java" />
+        <option value="$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/agents/DAAgents/DetectionAgent.java" />
+        <option value="$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/agents/RAgents/RCommunicationAgent.java" />
+        <option value="$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/agents/RAgents/ResponseAgent.java" />
+        <option value="$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/agents/DAAgents/TrainingAgent.java" />
+        <option value="$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/Communication.java" />
+        <option value="$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/GsonUtil.java" />
+        <option value="$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/exceptions/BlockChainException.java" />
+        <option value="$PROJECT_DIR$/SESS-communicationAgentsContract/src/test/java/cdu/edu/chao/BlockChainTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\MavenRep" />
+        <option name="mavenHome" value="D:/Program Files/DevelopmentTools/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\Program Files\DevelopmentTools\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="195" />
+    <option name="width" value="3500" />
+    <option name="height" value="1960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SESS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SESS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SESS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SESS" type="462c0819:PsiDirectoryNode" />
+              <item name="Ledger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SESS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SESS" type="462c0819:PsiDirectoryNode" />
+              <item name="Ledger" type="462c0819:PsiDirectoryNode" />
+              <item name="DACommunicationAgent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SESS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SESS" type="462c0819:PsiDirectoryNode" />
+              <item name="SESS-agentPlatform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SESS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SESS" type="462c0819:PsiDirectoryNode" />
+              <item name="SESS-agentPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SESS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SESS" type="462c0819:PsiDirectoryNode" />
+              <item name="SESS-agentPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SESS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SESS" type="462c0819:PsiDirectoryNode" />
+              <item name="SESS-agentPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SESS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SESS" type="462c0819:PsiDirectoryNode" />
+              <item name="SESS-agentPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SESS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SESS" type="462c0819:PsiDirectoryNode" />
+              <item name="SESS-agentPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chao" type="462c0819:PsiDirectoryNode" />
+              <item name="agents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SESS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SESS" type="462c0819:PsiDirectoryNode" />
+              <item name="SESS-agentPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chao" type="462c0819:PsiDirectoryNode" />
+              <item name="agents" type="462c0819:PsiDirectoryNode" />
+              <item name="DAAgents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SESS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SESS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555468543141" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SESS-agentPlatform/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\SESS" />
+      <recent name="F:\IdeaProjects\SESS\SESS-detectionAndAnalysis\src\main\resources" />
+      <recent name="F:\IdeaProjects\SESS\SESS-communicationAgentsContract\target\classes" />
+      <recent name="F:\IdeaProjects\SESS\SESS-detectionAndAnalysis\src\main\resources\animals" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cdu.edu.chao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\SESS\SESS-agentPlatform\src\main\resources" />
+      <recent name="F:\IdeaProjects\SESS\SESS-response\src\main\java\cdu\edu\chao\responseAgents" />
+      <recent name="F:\IdeaProjects\SESS\SESS-response\src\main\java" />
+      <recent name="F:\IdeaProjects\SESS\SESS-response\src\main\java\cdu\edu\chao\agents" />
+      <recent name="F:\IdeaProjects\SESS\SESS-detectionAndAnalysis\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SESSApp">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cdu.edu.chao.App" />
+      <module name="SESS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdu.edu.chao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BarChartUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cdu.edu.chao.utils.BarChartUtil" />
+      <module name="SESS-agentPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdu.edu.chao.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Contract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cdu.edu.chao.Contract" />
+      <module name="SESScommunicationAgentsContract" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdu.edu.chao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DNNUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cdu.edu.chao.utils.DNNUtil" />
+      <module name="SESS-agentPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdu.edu.chao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineChartUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cdu.edu.chao.utils.LineChartUtil" />
+      <module name="SESS-agentPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdu.edu.chao.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SESSApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cdu.edu.chao.SESSApp" />
+      <module name="SESS-agentPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdu.edu.chao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.DNNUtil" />
+      <item itemvalue="Application.SESSApp" />
+      <item itemvalue="Application.BarChartUtil" />
+      <item itemvalue="Application.LineChartUtil" />
+      <item itemvalue="Application.Contract" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SESSApp" />
+        <item itemvalue="Application.DNNUtil" />
+        <item itemvalue="Application.LineChartUtil" />
+        <item itemvalue="Application.Contract" />
+        <item itemvalue="Application.BarChartUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5ec88d4-ef09-40f2-8d0e-f88d6ac4c64e" name="Default Changelist" comment="" />
+      <created>1552702371812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552702371812</updated>
+      <workItem from="1552702374752" duration="1899000" />
+      <workItem from="1552704349342" duration="1819000" />
+      <workItem from="1552804404514" duration="4220000" />
+      <workItem from="1552871892736" duration="1225000" />
+      <workItem from="1552888128315" duration="5118000" />
+      <workItem from="1553392635390" duration="10610000" />
+      <workItem from="1553516268776" duration="5000" />
+      <workItem from="1553940468768" duration="1044000" />
+      <workItem from="1553948447737" duration="885000" />
+      <workItem from="1554004756875" duration="605000" />
+      <workItem from="1554021294812" duration="7595000" />
+      <workItem from="1554044953731" duration="250000" />
+      <workItem from="1554084206827" duration="47000" />
+      <workItem from="1554094063015" duration="3455000" />
+      <workItem from="1554118868351" duration="2146000" />
+      <workItem from="1554198197316" duration="5446000" />
+      <workItem from="1554205358658" duration="1363000" />
+      <workItem from="1554210927373" duration="1306000" />
+      <workItem from="1554269660551" duration="1973000" />
+      <workItem from="1554689945488" duration="2840000" />
+      <workItem from="1554721450354" duration="2923000" />
+      <workItem from="1554861909244" duration="565000" />
+      <workItem from="1554881426074" duration="712000" />
+      <workItem from="1554883308440" duration="1285000" />
+      <workItem from="1555241151426" duration="4979000" />
+      <workItem from="1555301723281" duration="300000" />
+      <workItem from="1555331320127" duration="14000" />
+      <workItem from="1555335298936" duration="19000" />
+      <workItem from="1555335579502" duration="60000" />
+      <workItem from="1555409190085" duration="1335000" />
+      <workItem from="1555410613305" duration="122000" />
+      <workItem from="1555467859997" duration="1218000" />
+      <workItem from="1555496440974" duration="25000" />
+      <workItem from="1555729942305" duration="8840000" />
+      <workItem from="1555749287770" duration="9351000" />
+      <workItem from="1555762773413" duration="2807000" />
+      <workItem from="1555765630641" duration="31000" />
+      <workItem from="1555854541499" duration="598000" />
+      <workItem from="1555899643034" duration="672000" />
+      <workItem from="1556165328644" duration="1099000" />
+      <workItem from="1556177305533" duration="5299000" />
+      <workItem from="1556256284099" duration="7682000" />
+      <workItem from="1556329340172" duration="10848000" />
+      <workItem from="1556346507583" duration="984000" />
+      <workItem from="1556358589956" duration="12596000" />
+      <workItem from="1556414371117" duration="6470000" />
+      <workItem from="1556434979971" duration="14184000" />
+      <workItem from="1556457125897" duration="5568000" />
+      <workItem from="1556497178793" duration="1586000" />
+      <workItem from="1556498828341" duration="2821000" />
+      <workItem from="1556501749458" duration="4146000" />
+      <workItem from="1556517250522" duration="3434000" />
+      <workItem from="1556618357571" duration="1215000" />
+      <workItem from="1556676623459" duration="2771000" />
+      <workItem from="1556709694474" duration="1835000" />
+      <workItem from="1556714597346" duration="585000" />
+      <workItem from="1556793102244" duration="35000" />
+      <workItem from="1556793165509" duration="4769000" />
+      <workItem from="1556855732566" duration="13000" />
+      <workItem from="1556861004803" duration="748000" />
+      <workItem from="1556862081137" duration="627000" />
+      <workItem from="1556877791300" duration="4922000" />
+      <workItem from="1556888458724" duration="714000" />
+      <workItem from="1557039122598" duration="214000" />
+      <workItem from="1557039359417" duration="369000" />
+      <workItem from="1557137817185" duration="3864000" />
+      <workItem from="1557145969303" duration="67000" />
+      <workItem from="1557279760160" duration="730000" />
+      <workItem from="1557302853786" duration="3224000" />
+      <workItem from="1557312543719" duration="5593000" />
+      <workItem from="1557459356805" duration="61000" />
+      <workItem from="1557459481947" duration="4164000" />
+      <workItem from="1557549693373" duration="3753000" />
+      <workItem from="1557582935818" duration="5256000" />
+      <workItem from="1557636347944" duration="4706000" />
+      <workItem from="1557654450776" duration="4486000" />
+      <workItem from="1557719967145" duration="814000" />
+      <workItem from="1557728778490" duration="2046000" />
+      <workItem from="1557827772639" duration="14000" />
+      <workItem from="1557843121519" duration="518000" />
+      <workItem from="1557886353425" duration="1150000" />
+      <workItem from="1558001232803" duration="15000" />
+      <workItem from="1558072547840" duration="1298000" />
+      <workItem from="1558083340134" duration="3345000" />
+      <workItem from="1558100706581" duration="1177000" />
+      <workItem from="1558147584481" duration="5980000" />
+      <workItem from="1558154559151" duration="3687000" />
+      <workItem from="1558171677807" duration="7052000" />
+      <workItem from="1558226884760" duration="8972000" />
+      <workItem from="1558260703589" duration="630000" />
+      <workItem from="1558261714718" duration="11830000" />
+      <workItem from="1558276571528" duration="3211000" />
+      <workItem from="1558312420691" duration="1263000" />
+      <workItem from="1558349566488" duration="6231000" />
+      <workItem from="1558434715590" duration="595000" />
+      <workItem from="1558435396342" duration="1634000" />
+      <workItem from="1558447803200" duration="561000" />
+      <workItem from="1558487903662" duration="1237000" />
+      <workItem from="1558496871420" duration="899000" />
+      <workItem from="1558500131791" duration="4027000" />
+      <workItem from="1558505290491" duration="4755000" />
+      <workItem from="1558518741557" duration="1911000" />
+      <workItem from="1558608708633" duration="7723000" />
+      <workItem from="1558617505385" duration="663000" />
+      <workItem from="1558689204141" duration="535000" />
+      <workItem from="1558695614803" duration="1039000" />
+      <workItem from="1558697486082" duration="16000" />
+      <workItem from="1558697915541" duration="5698000" />
+      <workItem from="1558750272945" duration="592000" />
+      <workItem from="1558755940189" duration="617000" />
+      <workItem from="1558767362137" duration="422000" />
+      <workItem from="1558781718644" duration="3363000" />
+      <workItem from="1558866367496" duration="73000" />
+      <workItem from="1558866759183" duration="5772000" />
+      <workItem from="1558878078803" duration="10563000" />
+      <workItem from="1558921992203" duration="644000" />
+      <workItem from="1558923042830" duration="3604000" />
+      <workItem from="1558927660271" duration="805000" />
+      <workItem from="1558928644059" duration="657000" />
+      <workItem from="1558931630930" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AppTest_shouldAnswerWithTrue - 2019.03.24 at 15h 21m 45s.xml">
+      <configuration name="AppTest.shouldAnswerWithTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_shouldAnswerWithTrue - 2019.03.24 at 15h 25m 11s.xml">
+      <configuration name="AppTest.shouldAnswerWithTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_shouldAnswerWithTrue - 2019.03.24 at 15h 29m 20s.xml">
+      <configuration name="AppTest.shouldAnswerWithTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_shouldAnswerWithTrue - 2019.03.24 at 15h 33m 00s.xml">
+      <configuration name="AppTest.shouldAnswerWithTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_shouldAnswerWithTrue - 2019.03.24 at 15h 33m 12s.xml">
+      <configuration name="AppTest.shouldAnswerWithTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_shouldAnswerWithTrue - 2019.03.24 at 15h 35m 28s.xml">
+      <configuration name="AppTest.shouldAnswerWithTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_shouldAnswerWithTrue - 2019.03.24 at 15h 36m 17s.xml">
+      <configuration name="AppTest.shouldAnswerWithTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_shouldAnswerWithTrue - 2019.03.24 at 15h 40m 42s.xml">
+      <configuration name="AppTest.shouldAnswerWithTrue" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="338841000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33467472" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49362844" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8564722" weight="0.32673267" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48625085" weight="0.4016973" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49966466" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4976526" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.14352784" side_tool="true" weight="0.3281471" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4969819" weight="0.32956153" />
+      <window_info anchor="bottom" id="Spring" order="13" sideWeight="0.49966466" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3293092" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3293092" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32997987" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bin" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="json.value" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SESS$DNNUtil.ic" NAME="DNNUtil Coverage Results" MODIFIED="1558609851656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cdu.edu.chao.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/dto/ReportDto.java" />
+    <entry file="jar://E:/MavenRep/com/tilab/jade/jade/4.5.0/jade-4.5.0.jar!/jade/core/behaviours/OneShotBehaviour.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATrainingReport.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DADetectionReport.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="54" selection-start-column="54" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/resources/block.bin" />
+    <entry file="file://$PROJECT_DIR$/SESS-communicationAgentsContract/target/classes/block.bin" />
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/resources/block.bin" />
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/block.bin">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/utils/DataUtil.java" />
+    <entry file="jar://E:/MavenRep/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar!/com/google/gson/Gson.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://E:/MavenRep/com/tilab/jade/jade/4.5.0/jade-4.5.0.jar!/jade/core/Agent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="292" column="138" selection-start-line="292" selection-start-column="138" selection-end-line="292" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/MavenRep/com/tilab/jade/jade/4.5.0/jade-4.5.0.jar!/jade/core/behaviours/Behaviour.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/resources/KDDTrain+_20Percent1.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/resources/dataSet2.csv" />
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/resources/dataSet1.csv" />
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/resources/dataSet3.csv" />
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/resources/dataSet4.csv" />
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/resources/Test+SubDataSet1_40parameter.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/resources/Test+SubDataSet2.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-21182" />
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blockchain.bin">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APDescription.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/resources/app.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-communicationAgentsContract/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="109" column="27" selection-start-line="109" selection-start-column="27" selection-end-line="109" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/resources/Train+SubDataSet1.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RTrainingReport.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RDetectionReport.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/utils/PropertiesUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/utils/LineChartUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/utils/DNNUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="209" selection-start-line="209" selection-end-line="209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/utils/BarChartUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/domain/TrainingReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/domain/DetectionReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/agents/RAgents/RCommunicationAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="87" column="21" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/agents/RAgents/ResponseAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/GsonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/AgentAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1346#1347#0" expanded="true" />
+            <element signature="e#1378#1379#0" expanded="true" />
+            <element signature="e#1551#1552#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/exceptions/BlockChainException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-communicationAgentsContract/src/test/java/cdu/edu/chao/BlockChainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/BlockChainUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="102" column="9" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/SESSApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/agents/DAAgents/DACommunicationAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="53" column="63" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/agents/DAAgents/DetectionAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-agentPlatform/src/main/java/cdu/edu/chao/agents/DAAgents/TrainingAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/Contract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="103" column="44" selection-start-line="103" selection-start-column="44" selection-end-line="103" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/BlockUpdateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SESS-communicationAgentsContract/src/main/java/cdu/edu/chao/Communication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="44" column="56" selection-start-line="44" selection-start-column="56" selection-end-line="44" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ledger/DACommunicationAgent/blockchain.bin">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="60" lean-forward="true" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SESS-agentPlatform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.hamcrest:hamcrest-core:1.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
